@@ -1,4 +1,4 @@
-// Topic: Print a message to the terminal
+// Topic: Print the messages to the terminal
 //
 // Programe requirements:
 // * Distplay a message to the terminal and use (a) variable(s) and a function
